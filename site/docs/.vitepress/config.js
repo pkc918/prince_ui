@@ -1,7 +1,7 @@
 export default {
-  base: process.env.NODE_ENV === "production" ? "/prince_ui/" : "/",
+  base: "/",
   themeConfig: {
-    siteTitle: "vitepress",
+    siteTitle: "prince_ui",
     nav: [
       { text: "指南", link: "/guild/installation/" },
       { text: "组件", link: "/components/button/" },
