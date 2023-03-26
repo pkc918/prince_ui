@@ -1,0 +1,4 @@
+**.d.ts
+/packages/prince_ui
+dist
+node_modules

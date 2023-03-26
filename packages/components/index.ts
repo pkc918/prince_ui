@@ -5,9 +5,9 @@ import { App } from "vue";
 type ComponentName = keyof typeof components;
 
 export default {
-  install: (app: App) => {
-    for (let componentName in components) {
-      app.use(components[componentName as ComponentName]);
+    install: (app: App) => {
+        for (const componentName in components) {
+            app.use(components[componentName as ComponentName]);
+        }
     }
-  },
 };
