@@ -1,5 +1,5 @@
 export default {
-  base: "/",
+  base: "/prince_ui/",
   themeConfig: {
     siteTitle: "prince_ui",
     nav: [
