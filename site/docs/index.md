@@ -8,7 +8,7 @@ hero:
     text: A Vue.js 3 UI Library
     tagline: 🎉一款属于你自己的组件库
     image:
-        src: /logo.png
+        src: https://raw.githubusercontent.com/pkc918/prince_ui/main/site/docs/logo.png
         alt: Prince UI
     actions:
         - theme: brand
