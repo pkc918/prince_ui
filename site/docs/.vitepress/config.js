@@ -1,5 +1,7 @@
 export default {
+  title: "Prince UI",
   base: "/prince_ui/",
+  description: "A VitePress site",
   themeConfig: {
     siteTitle: "prince_ui",
     nav: [
