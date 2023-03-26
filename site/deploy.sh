@@ -9,7 +9,7 @@ pnpm run docs:build
 # 进入待发布的目录
 cd docs/.vitepress/dist
 
-git remote add prince_ui git@github.com:PrinceUI-core/prince_ui.git
+git remote add prince_ui git@gitee.com:pan__xiaopan/prince_ui.git
 git add -A
 git commit -m 'docs(update):更新文档'
 
