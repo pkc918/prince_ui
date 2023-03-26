@@ -38,22 +38,11 @@ export default {
                     ]
                 },
                 {
-                    text: "进阶",
+                    text: "组件",
                     items: [
                         {
-                            text: "xx",
-                            link: "/xx"
-                        }
-                    ]
-                }
-            ],
-            "/components/": [
-                {
-                    text: "基础组件",
-                    items: [
-                        {
-                            text: "Button",
-                            link: "/components/button"
+                            text: "button",
+                            link: "/components/button/"
                         }
                     ]
                 }
