@@ -10,7 +10,7 @@
 
 :::
 
-<div style="display: flex; justify-content:space-between;">
+<div style="display: flex; flex-wrap:wrap; justify-content:space-between;">
   <PButton>Not Type</PButton>
   <PButton type="default">Default</PButton>
   <PButton type="primary">Primary</PButton>
